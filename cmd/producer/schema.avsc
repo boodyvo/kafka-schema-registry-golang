@@ -1,0 +1,8 @@
+{"namespace": "example.user",
+ "type": "record",
+ "name": "nuser",
+ "fields": [
+     {"name": "Name", "type": "string"},
+     {"name": "ID",  "type": "int"}
+ ]
+}
